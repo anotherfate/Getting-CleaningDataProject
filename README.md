@@ -12,6 +12,19 @@ The Objectives from the instructors were to create an R script called run_analys
 This data goes into wearable computing, for a better description see the linked article:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
+The Data Relates as follows:
+    run_analysis should be run with UCI HAR Dataset File as the working directory in R
+    the features file is the column heads for X_train and X_test
+    where X is the data from measurement
+    train is the original data set for creating predictions
+    test is the data set for testing predictions
+    Y represents the vector of activity for X_train and X_test respectively
+    Y has numbers 1 - 6 which are described in activity_lables
+    subject refers to the subject of the test by number, whether in the training data set or test
+    
+
+
+
 The original README Follows: 
 
 ==================================================================
